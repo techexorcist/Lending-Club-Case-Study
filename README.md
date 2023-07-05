@@ -39,7 +39,7 @@
             -    For borrowers with their DTI score 2.
             -    For borrowers with DTI score greater than 2 are best avoided
             -    For borrowers with their public bankruptcy record count greater than 0
-    - Recommendations:
+    - Recommendations - High Risk Factors:
             -    Loan requests meeting 3 or more of the above points will have a higher chance of defaulting
             -    Loan requests meeting all the above factors should not be considered for loan acceptance
 
