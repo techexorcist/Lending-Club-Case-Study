@@ -27,8 +27,7 @@
 4. [Key Insights: The Borrower Risk Matrix](#-key-insights-the-borrower-risk-matrix)
 5. [Strategic Business Recommendations](#-strategic-business-recommendations)
 6. [Future Scope & Improvements](#-future-scope--improvements)
-7. [Repository Structure](#-repository-structure)
-8. [Acknowledgments & Contact](#-acknowledgments--contact)
+7. [Acknowledgments & Contact](#-acknowledgments--contact)
 
 ---
 
